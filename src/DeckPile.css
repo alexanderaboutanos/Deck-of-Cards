@@ -1,0 +1,12 @@
+/** @format */
+
+.DeckPile {
+  height: 600px;
+  width: 2600px;
+}
+
+.img-div {
+  position: absolute;
+  right: 42%;
+  top: 30%;
+}
